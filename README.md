@@ -43,13 +43,6 @@ Follow these steps to install the **NoClickbait** browser extension:
 
 ---
 
-## 🖼️ **Screenshots**
-
-![NoClickbait Screenshot](image_link_here.png)
-
-*Example of how the extension works in action.*
-
----
 
 ## 🔄 **How to Use**
 
